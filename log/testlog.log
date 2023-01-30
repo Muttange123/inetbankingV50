@@ -42,3 +42,11 @@
 2023-01-25 09:00:23,413 - ebanking -INFO - Entered username
 2023-01-25 09:00:23,674 - ebanking -INFO - Entered password
 2023-01-25 09:00:28,170 - ebanking -INFO - Login test passed
+2023-01-27 22:39:18,820 - ebanking -INFO - URL is openned
+2023-01-27 22:39:21,199 - ebanking -INFO - Entered username
+2023-01-27 22:39:22,595 - ebanking -INFO - Entered password
+2023-01-27 22:39:38,261 - ebanking -INFO - Login test passed
+2023-01-27 22:45:02,493 - ebanking -INFO - URL is openned
+2023-01-27 22:45:03,798 - ebanking -INFO - Entered username
+2023-01-27 22:45:03,925 - ebanking -INFO - Entered password
+2023-01-27 22:45:07,271 - ebanking -INFO - Login test passed
