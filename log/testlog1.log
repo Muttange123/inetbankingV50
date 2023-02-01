@@ -50,3 +50,17 @@
 2023-01-27 22:45:03,798 [main] INFO ebanking - Entered username
 2023-01-27 22:45:03,925 [main] INFO ebanking - Entered password
 2023-01-27 22:45:07,271 [main] INFO ebanking - Login test passed
+2023-02-01 11:59:23,743 [main] INFO ebanking - URL is openned
+2023-02-01 11:59:31,670 [main] INFO ebanking - Entered username
+2023-02-01 11:59:31,867 [main] INFO ebanking - Entered password
+2023-02-01 12:03:57,645 [main] INFO ebanking - URL is openned
+2023-02-01 12:04:02,690 [main] INFO ebanking - Entered username
+2023-02-01 12:04:02,950 [main] INFO ebanking - Entered password
+2023-02-01 12:13:58,199 [main] INFO ebanking - URL is openned
+2023-02-01 12:14:01,364 [main] INFO ebanking - Entered username
+2023-02-01 12:14:01,562 [main] INFO ebanking - Entered password
+2023-02-01 12:14:15,355 [main] INFO ebanking - Login test passed
+2023-02-01 12:16:23,298 [main] INFO ebanking - URL is openned
+2023-02-01 12:16:25,874 [main] INFO ebanking - Entered username
+2023-02-01 12:16:26,109 [main] INFO ebanking - Entered password
+2023-02-01 12:16:45,819 [main] INFO ebanking - Login test passed
